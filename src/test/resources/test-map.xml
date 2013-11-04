@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mapping>  
+  <map>
+    <sources>
+      <source feature="hoge" value="baaaa" />
+      <source feature="fuga" value="bleat" />
+    </sources>
+    <target value="baaaableat" />
+  </map>
+  <map>
+    <sources>
+      <source feature="hoge" value="baaaaaa" />
+      <source feature="fuga" value="bleeeat" />
+    </sources>
+    <target value="baaaaaableeeat" />
+  </map>
+</mapping>
